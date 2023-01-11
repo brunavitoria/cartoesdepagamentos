@@ -1,4 +1,9 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/css/app.css": "/css/app.css",
+    "/images/logo.png": "/images/logo.png",
+    "/images/logoCP.png": "/images/logoCP.png",
+    "/images/logoCP.svg": "/images/logoCP.svg",
+    "/images/logotipoCP.png": "/images/logotipoCP.png",
+    "/images/logotipoCP.svg": "/images/logotipoCP.svg"
 }
