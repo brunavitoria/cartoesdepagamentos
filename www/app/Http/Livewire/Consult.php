@@ -53,12 +53,10 @@ class Consult extends Component
         $response = curl_exec($client);
     
         $this->response = json_decode($response);
-        
         // Se o response for vazio retornar empty
         if (empty($this->response)) {
             $this->empty = true;
         }
-
         curl_close($client);
     }
 
